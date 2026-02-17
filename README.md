@@ -6,6 +6,7 @@
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge)
 
 A powerful, modern **Digital Forensics Workstation** built with Python and CustomTkinter. Designed for forensic analysts, cybersecurity students, and incident responders — featuring a premium dark-themed UI with 11 integrated modules for real-time system analysis, file investigation, and anomaly detection.
+
 <img width="1275" height="802" alt="image" src="https://github.com/user-attachments/assets/9e72b85a-afe4-4fc1-9157-d8a9f70470ae" />
 
 ---
@@ -123,4 +124,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <p align="center">
   Made with ❤️ by <strong>Sonu Verma</strong>
 </p>
+
 
